@@ -1,2 +1,2 @@
-# Comandos-Uteis-p-s-instala-o-Linux-Manjaro
+# Comandos-Uteis-pos-instalacao-Linux-Manjaro
 Lista de comandos úteis pós instalação do Manjaro Linux
