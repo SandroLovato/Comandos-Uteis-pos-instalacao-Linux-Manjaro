@@ -1,0 +1,18 @@
+Comandos Linux Manjaro
+
+1.Atualizar espelhos:
+sudo pacman-mirrors --fasttrack
+
+2.Atualizar sistema:
+sudo pacman - Syu
+
+3.Instale os pacotes:
+sudo pacman -S package_name
+
+4.Ativar TRIM (somente SSD)
+sudo systemctl enable fstrim.timer
+
+5.Para listar os kernels instalados
+mhwd-kernel -li
+(Para instalar um novo kernel(5.10 o mais recente),por exemplo:)
+sudo mhwd-kernel -i linux510
